@@ -3,7 +3,7 @@
 The **Smart Warehouse Management System** is a final year project undertaken by a team of four members, guided by an assigned mentor. The project aims to address and mitigate common challenges faced in the warehousing industry while leveraging modern technology trends to optimize warehouse operations. This project is subject to weekly reviews with continuous feedback from the guide and bi-monthly comprehensive assessments involving both the guide and the project head.
 
 
-**Project Objectives:**
+**Project Objectives:**\\
 1. Improve warehouse management efficiency.
 2. Address problems such as empty rack detection, object motion sensing, and pest control.
 3. Assist local warehouses in streamlining their operations.
