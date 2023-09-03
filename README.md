@@ -46,34 +46,42 @@ Gas and Temperature Detection: Utilize gas sensors for detecting LPG, iso-butane
 \
 **Home Page Of Web application:**\
 ![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/2db00d5d-fd43-4395-ab28-d1dbfc23f2fe)\
+This page is the basic index page for the application and to user(trained) who is viewing.\
 \
 \
 **Adding Product Form Page:**\
 ![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/6c309b09-f431-4dfa-8239-c2483e46670a)\
+For adding a product either through RFID or generating QR Code, which will depend on the Quantity and relationship of product with the organization.\
 \
 \
 **Initial Reading:**\
 ![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/9335fb84-0df4-44f0-9266-c1db0509ed2a)\
+The basic details of products entered till now will be displayed here.\
 \
 \
 **QR Code:**\
 ![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/3bf03edf-492f-4404-bcbf-694c173df33b)\
+An Image of QR code will be displayed here where onclick can see the details of that specifc product.\
 \
 \
 **Values from Sensors:**\
 ![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/312ad8f2-c3f7-42a6-ab0b-2f5e6d7f7728)\
+The values which are displayed on screen via server(Python Flask) reading and getting required values from sensors.\
 \
 \
 **Contact Form:**\
 ![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/a55aed53-5c93-4a65-bff1-a2905ced94f2)\
+This is form where any issues regarding the management or any technical issues will be sent to the admin via mail.\
 \
 \
 **Hardware Implementation:**\
 ![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/db8bf20b-b9bd-4f13-a77a-22dbeb521b99)\
+The above image represents the hardware part implementatin where all sensors,Arduino Uno and a lot of IoT is being used.\
 \
 \
 **Rat Detected Through Camera:**\
 ![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/1e834dbb-4f23-442a-920f-05e3604fe8a3)\
+The part of rat being detected is being highlighted through red border which can be seen in above image.\
 \
 \
 **Detection of Rat notification via Telegram:**\
@@ -82,4 +90,5 @@ Gas and Temperature Detection: Utilize gas sensors for detecting LPG, iso-butane
 \
 **Rat detected Time and Size Measurements:**\
 ![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/aa91296a-1465-43ed-a555-e5cb53333471)\
+The Rat detected size measurements and how much time it got detected is being shown in screen.
 
