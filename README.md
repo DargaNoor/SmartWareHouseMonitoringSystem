@@ -86,6 +86,7 @@ The part of rat being detected is being highlighted through red border which can
 \
 **Detection of Rat notification via Telegram:**\
 ![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/2974e43d-86bd-4643-af0d-096c7f3fcfb4)\
+Notification is being sent to the admin if rat detected or low weight in the rack etc details will be notified via Telegram.\
 \
 \
 **Rat detected Time and Size Measurements:**\
