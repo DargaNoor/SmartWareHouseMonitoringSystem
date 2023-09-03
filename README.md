@@ -41,3 +41,16 @@ Gas and Temperature Detection: Utilize gas sensors for detecting LPG, iso-butane
 1. Optimize warehousing operations, ensuring safe storage and reducing economic losses.
 2. Improve inventory management, order processing, layout, labor management, shipping, logistics, reporting, analytics, and returns management.
 3. By presenting the project in a more concise manner, it becomes easier to understand the main objectives, requirements, hardware, software, and benefits of the Smart Warehouse Management System.
+
+**Results:**\
+![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/2db00d5d-fd43-4395-ab28-d1dbfc23f2fe)\
+![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/6c309b09-f431-4dfa-8239-c2483e46670a)\
+![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/9335fb84-0df4-44f0-9266-c1db0509ed2a)\
+![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/3bf03edf-492f-4404-bcbf-694c173df33b)\
+![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/312ad8f2-c3f7-42a6-ab0b-2f5e6d7f7728)\
+![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/a55aed53-5c93-4a65-bff1-a2905ced94f2)\
+![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/db8bf20b-b9bd-4f13-a77a-22dbeb521b99)\
+![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/1e834dbb-4f23-442a-920f-05e3604fe8a3)\
+![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/2974e43d-86bd-4643-af0d-096c7f3fcfb4)\
+![image](https://github.com/DargaNoor/SmartWareHouseMonitoringSystem/assets/90261006/aa91296a-1465-43ed-a555-e5cb53333471)\
+
