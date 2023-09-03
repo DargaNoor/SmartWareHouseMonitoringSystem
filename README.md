@@ -9,7 +9,7 @@ The **Smart Warehouse Management System** is a final year project undertaken by 
 3. Assist local warehouses in streamlining their operations.
 4. Implement an alert system for critical conditions.
 
-**Functional Requirements:**\n
+**Functional Requirements:**\
 **Alert Notification System:** Notify users/system when values exceed predefined limits through email using microcontrollers or embedded systems.
 Gas and Temperature Detection: Utilize gas sensors for detecting LPG, iso-butane, propane, and other gases, while also incorporating temperature sensors for monitoring environmental conditions.
 **Radio Frequency Identification (RFID):** Employ RFID technology for tracking inventory by using tags and readers.
